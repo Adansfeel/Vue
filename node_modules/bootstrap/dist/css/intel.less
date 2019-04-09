@@ -1,0 +1,105 @@
+//Bootstrap提供的样式
+
+/*自定义样式*/
+body{
+  padding-top: 70px;
+  font-family: "SimHei","Simsun",arial,sans-serif;
+  background: #0062a8;
+  h2{
+    color: #ffffff;
+  }
+  .glyphicon,.panel{
+    color: #000000;
+  }
+
+  .logo{
+    background: url("../img/hdr-spr.jpg") no-repeat;
+    display: inline-block;
+    width: 63px;
+    height: 42px;
+    margin-top: 10px;
+  }
+
+  .panel{
+    width: 300px;
+    height: 250px;
+  }
+}
+
+#main{
+  .row{
+    margin-bottom: 25px;
+    .media li{
+      line-height: 1.8rem;
+    }
+  }
+  .masking-parent{
+    //background-color: @blue-light;
+    background-color: #0083d7;
+    position: relative;
+    .masking-text{
+      padding: 15px;
+      color: #c4e3f3;
+    }
+
+    //@media screen and (min-width: @screen-md-min) {
+    //  .masking-text{
+    //    position: absolute;
+    //    bottom: 0;
+    //  }
+    //}
+    @media screen and (min-width: 992px) {
+      .masking-text{
+        position: absolute;
+        bottom: 0;
+      }
+    }
+  }
+
+  div.half-mask{
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 92%;
+    height: 100%;
+    position: absolute;
+    top: 80%;
+    left: 16px;
+    transition: top 200ms;
+  }
+  div.half-mask:hover{
+    top: 0px;
+  }
+  div.col-md-12.col-sm-6.col-xs-12{
+    overflow: hidden;
+    margin-bottom: 20px;
+    h4,p,a{
+      color: #ffffff;
+      margin-left: 8px;
+    }
+  }
+  div.media{
+    background: #0071c5;
+    padding: 30px 0 30px 30px;
+  }
+}
+
+.footer{
+  min-height: 100px;
+  background: #f3f3f3;
+  h4{
+    color: #000000;
+  }
+  a{
+    color: #5a8fd4;
+  }
+  a:hover{
+    color: #9ADDF7;
+  }
+  li{
+    line-height: 2rem;
+  }
+}
+
+
+
+
+
