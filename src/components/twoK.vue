@@ -142,18 +142,20 @@
         <h2>欢迎来到英特尔 &reg;</h2>
         <div class="row">
           <div class="col-md-8 col-xs-12">
-            <img src="../assets/img/intel.web.864.486.1.jpg" class="img-responsive" alt="">
-            <div class="mask-text">
-              <h3>全新第八代智能英特尔&reg;酷睿™处理器</h3>
-              <p>借助第八代智能英特尔&reg;酷睿™处理器家族的新增功能，纵享您最喜欢的节目，将游戏提升至更高水平，或是尽情释放创造力。</p>
-              <a href="#" class="btn btn-info">了解更多</a>
+            <div class="masking-parent">
+              <img src="img/intel.web.864.486.1.jpg" class="img-responsive" alt="">
+              <div class="masking-text">
+                <h3>全新第八代智能英特尔&reg;酷睿™处理器</h3>
+                <p>借助第八代智能英特尔&reg;酷睿™处理器家族的新增功能，纵享您最喜欢的节目，将游戏提升至更高水平，或是尽情释放创造力。</p>
+                <a href="#" class="btn btn-info btn-xs">立即探索全新第八代智能英特尔&reg;酷睿™处理器</a>
+              </div>
             </div>
           </div>
           <div class="col-md-4 col-xs-12">
             <div class="row">
               <div class="col-md-12 col-sm-6 col-xs-12">
                 <div class="masking-parent">
-                  <img src="../assets/img/intel.web.368.207.1.jpg" class="img-responsive" alt="">
+                  <img src="img/intel.web.368.207.1.jpg" class="img-responsive" alt="">
                   <div class="half-mask" data-toggle="mask">
                     <h4>完成任务更多，等待时间更少</h4>
                     <p>
@@ -169,7 +171,7 @@
                 <div>
                   <div class="media">
                     <div class="media-left">
-                      <img src="../assets/img/intel.web.81.108.jpg" alt="">
+                      <img src="img/intel.web.81.108.jpg" alt="">
                     </div>
                     <div class="media-body">
                       <ul class="list-unstyled">
@@ -190,11 +192,11 @@
         <div class="row">
           <div class="col-md-8 col-xs-12 col-md-push-4">
             <div class="masking-parent">
-              <img src="../assets/img/intel.web.864.486.2.jpg" class="img-responsive" alt="">
-              <div class="mask-text">
+              <img src="img/intel.web.864.486.2.jpg" class="img-responsive" alt="">
+              <div class="masking-text">
                 <h3>升级制胜组合 <br>8代智能英特尔&reg;酷睿™处理器 + Windows 10 致力企业变革</h3>
                 <p>借助第八代智能英特尔&reg;酷睿™处理器家族的新增功能，纵享您最喜欢的节目，将游戏提升至更高水平，或是尽情释放创造力。</p>
-                <a href="#" class="btn btn-info">了解更多</a>
+                <a href="#" class="btn btn-info btn-xs">了解更多</a>
               </div>
             </div>
           </div>
@@ -216,7 +218,7 @@
 
               <div class="col-md-12 col-sm-6 col-xs-12">
                 <div>
-                  <img src="../assets/img/intel.web.368.207.2.jpg" class="img-responsive" alt="">
+                  <img src="img/intel.web.368.207.2.jpg" class="img-responsive" alt="">
                   <div class="half-mask" data-toggle="mask">
                     <h4>商机不等待，换电脑趁现在</h4>
                     <p>
@@ -234,14 +236,14 @@
         <div class="row">
           <div class="col-md-8 col-xs-12">
             <div class="masking-parent">
-              <img src="../assets/img/intel.web.864.486.3.jpg" class="img-responsive" alt="">
-              <div class="mask-text">
+              <img src="img/intel.web.864.486.3.jpg" class="img-responsive" alt="">
+              <div class="masking-text">
                 <h3>新至强 <br> 决胜数据未来</h3>
                 <p>
                   BE READY FORIT TRANSFORMATION <br>
                   英特尔&reg;至强®可扩展处理器是未来就绪的基础，用于支持敏捷、高性能和超高的基础架构，旨在满足当今数据驱动的数字化。
                 </p>
-                <a href="#" class="btn btn-info">了解更多</a>
+                <a href="#" class="btn btn-info btn-xs">了解更多</a>
               </div>
             </div>
           </div>
@@ -249,7 +251,7 @@
             <div class="row">
               <div class="col-md-12 col-sm-6 col-xs-12">
                 <div>
-                  <img src="../assets/img/intel.web.368.207.3.jpg" class="img-responsive" alt="">
+                  <img src="img/intel.web.368.207.3.jpg" class="img-responsive" alt="">
                   <div class="half-mask" data-toggle="mask">
                     <h4>人工智能，从至强®开始</h4>
                     <p>
