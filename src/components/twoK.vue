@@ -143,7 +143,7 @@
         <div class="row">
           <div class="col-md-8 col-xs-12">
             <div class="masking-parent">
-              <img src="img/intel.web.864.486.1.jpg" class="img-responsive" alt="">
+              <img src="../assets/img/intel.web.864.486.1.jpg" class="img-responsive" alt="">
               <div class="masking-text">
                 <h3>全新第八代智能英特尔&reg;酷睿™处理器</h3>
                 <p>借助第八代智能英特尔&reg;酷睿™处理器家族的新增功能，纵享您最喜欢的节目，将游戏提升至更高水平，或是尽情释放创造力。</p>
@@ -155,7 +155,7 @@
             <div class="row">
               <div class="col-md-12 col-sm-6 col-xs-12">
                 <div class="masking-parent">
-                  <img src="img/intel.web.368.207.1.jpg" class="img-responsive" alt="">
+                  <img src="../assets/img/intel.web.368.207.1.jpg" class="img-responsive" alt="">
                   <div class="half-mask" data-toggle="mask">
                     <h4>完成任务更多，等待时间更少</h4>
                     <p>
@@ -171,7 +171,7 @@
                 <div>
                   <div class="media">
                     <div class="media-left">
-                      <img src="img/intel.web.81.108.jpg" alt="">
+                      <img src="../assets/img/intel.web.81.108.jpg" alt="">
                     </div>
                     <div class="media-body">
                       <ul class="list-unstyled">
@@ -192,7 +192,7 @@
         <div class="row">
           <div class="col-md-8 col-xs-12 col-md-push-4">
             <div class="masking-parent">
-              <img src="img/intel.web.864.486.2.jpg" class="img-responsive" alt="">
+              <img src="../assets/img/intel.web.864.486.2.jpg" class="img-responsive" alt="">
               <div class="masking-text">
                 <h3>升级制胜组合 <br>8代智能英特尔&reg;酷睿™处理器 + Windows 10 致力企业变革</h3>
                 <p>借助第八代智能英特尔&reg;酷睿™处理器家族的新增功能，纵享您最喜欢的节目，将游戏提升至更高水平，或是尽情释放创造力。</p>
@@ -218,7 +218,7 @@
 
               <div class="col-md-12 col-sm-6 col-xs-12">
                 <div>
-                  <img src="img/intel.web.368.207.2.jpg" class="img-responsive" alt="">
+                  <img src="../assets/img/intel.web.368.207.2.jpg" class="img-responsive" alt="">
                   <div class="half-mask" data-toggle="mask">
                     <h4>商机不等待，换电脑趁现在</h4>
                     <p>
@@ -236,7 +236,7 @@
         <div class="row">
           <div class="col-md-8 col-xs-12">
             <div class="masking-parent">
-              <img src="img/intel.web.864.486.3.jpg" class="img-responsive" alt="">
+              <img src="../assets/img/intel.web.864.486.3.jpg" class="img-responsive" alt="">
               <div class="masking-text">
                 <h3>新至强 <br> 决胜数据未来</h3>
                 <p>
@@ -251,7 +251,7 @@
             <div class="row">
               <div class="col-md-12 col-sm-6 col-xs-12">
                 <div>
-                  <img src="img/intel.web.368.207.3.jpg" class="img-responsive" alt="">
+                  <img src="../assets/img/intel.web.368.207.3.jpg" class="img-responsive" alt="">
                   <div class="half-mask" data-toggle="mask">
                     <h4>人工智能，从至强®开始</h4>
                     <p>
